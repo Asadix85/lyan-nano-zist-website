@@ -105,20 +105,20 @@ Supabase	Database and Authentication
 Vazirmatn Font	Beautiful and readable Persian font
 ### 🚀 Getting Started
 bash
-# 1. Clone the repository
+#### 1. Clone the repository
 git clone https://github.com/YOUR_USERNAME/lyan-nano-zist-website.git
 
-# 2. Navigate to the project directory
+#### 2. Navigate to the project directory
 cd lyan-nano-zist-website
 
-# 3. Install dependencies
+#### 3. Install dependencies
 npm install
 
-# 4. Create a .env.local file and add your Supabase keys
-# NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
-# NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
+#### 4. Create a .env.local file and add your Supabase keys
+NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
+NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
 
-# 5. Run the development server
+#### 5. Run the development server
 npm run dev
 ### 📁 Project Structure
 ```
